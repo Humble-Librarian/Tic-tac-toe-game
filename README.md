@@ -23,4 +23,8 @@ A simple command-line Tic Tac Toe game implemented in C, allowing two players to
    cd tic-tac-toe
 
 
+### Instructions
+- Remember to replace `yourusername` with your actual GitHub username.
+- Feel free to remove or adjust any sections that you think are unnecessary!
+
 
