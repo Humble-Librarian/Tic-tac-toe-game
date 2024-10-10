@@ -22,5 +22,5 @@ A simple command-line Tic Tac Toe game implemented in C, allowing two players to
    git clone https://github.com/yourusername/tic-tac-toe.git
    cd tic-tac-toe
 
-2.Compile the program and run it
+
 
