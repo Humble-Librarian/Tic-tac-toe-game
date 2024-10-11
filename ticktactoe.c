@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define ROWS 3   // Number of rows in the board
-#define COLS 3   // Number of columns in the board
+#define ROWS 3 
+#define COLS 3   
 
 // Function to print the current state of the game board
 void print_board(char board[ROWS][COLS]) {
